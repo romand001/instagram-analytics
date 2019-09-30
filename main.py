@@ -234,10 +234,9 @@ def option3():
 def option4():
 
     trackerPK = 12389194238
-    nadaPK = 201683479
 
     trackerUsername = "i.tracker2"
-    trackerPassword = "asshole"
+    trackerPassword = "pass1234"
 
     API.getUsernameInfo(trackerPK)
     #dumpJson()
@@ -375,10 +374,9 @@ def option5():
     print("Logging in tracker...")
 
     trackerPK = 12389194238
-    nadaPK = 201683479
 
     trackerUsername = "i.tracker2"
-    trackerPassword = "asshole"
+    trackerPassword = "pass1234"
 
     API.getUsernameInfo(trackerPK)
 
